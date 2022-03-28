@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keitaronishijima
-- 👀 I’m interested in Computer Science/Applied Mathematics/Psycology/Economics
-- 🌱 I’m currently learning Computer Science/Applied Mathematics/Psycology/Economics
+- 👀 I’m a Computer Science Concentrator at Brown University
+- 🌱 I’m interested in Computer Science/Software Engineering/Machine Learning
 - 💞️ I’m looking to collaborate on AI/ML/Software Engineering
 - 📫 Feel free to reach me out through E-mail keitaro_nishijima@brown.edu
 
